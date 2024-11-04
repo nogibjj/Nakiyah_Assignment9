@@ -1,6 +1,6 @@
 # Nakiyah_Assignment9
 
-[![CI](https://github.com/Nakiyah24/Nakiyah_Assignment9/actions/workflows/cicd.yml/badge.svg)](https://github.com/Nakiyah24/Nakiyah_Assignment9/actions/workflows/cicd.yml)
+[![CI](https://github.com/nogibjj/Nakiyah_Assignment9/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Nakiyah_Assignment9/actions/workflows/cicd.yml)
 <a href="https://colab.research.google.com/github/Nakiyah24/Nakiyah_Assignment9/blob/main/Nakiyah_Assignment9.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ```
