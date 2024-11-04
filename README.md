@@ -46,15 +46,20 @@ Nakiyah_Assignment9
 
 
 ## Testing Make Files
-- Make Lint
+### Make Lint
+![Make Lint](misc/MakeLint.png)
 
 ### Make Test
-- Make Test
+![Make Test](misc/MakeTest.png)
+
+
+## Printing Summary Statistics
+![Summary Statistics](misc/SummaryStats.png)
+
 
 ## Data Visualizations
 ### Stack Plot
-![Stack Graph](stack_plot.png)
+![Stack Graph](misc/StackPlotGraph.png)
 
 ### Bar Plot
-![Bar Graph](bar_plot.png)
-
+![Bar Graph](misc/BarPlotGraph.png)
